@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/race-betting/static/css/main.8d6a87d1.css",
+    "main.js": "/race-betting/static/js/main.3dd9b600.js",
+    "index.html": "/race-betting/index.html",
+    "main.8d6a87d1.css.map": "/race-betting/static/css/main.8d6a87d1.css.map",
+    "main.3dd9b600.js.map": "/race-betting/static/js/main.3dd9b600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a87d1.css",
+    "static/js/main.3dd9b600.js"
+  ]
+}
