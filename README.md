@@ -1,6 +1,6 @@
 ## Introduction
 
-Web-based application for entering bets on races based on two views: 
+Web-based application for entering bets on races, which is composed of two views: 
 1. A list of all races with the ability to filter by whether a race is active. In addition, for each race, there is a brief information about whether the user has placed a bet for it. Clicking on race direct the user to the second view.
 2. The view of a single race and its participants with the current status of our bet, the possibility to change the stake and the possibility to change your betting. 
 
